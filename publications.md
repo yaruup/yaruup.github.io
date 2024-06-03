@@ -12,7 +12,7 @@ title: Publications
 
 ## Posters
 
-<img src="https://raw.githubusercontent.com/yaruup/yaruup.github.io/main/mypaper/poster/mypaper/poster/Clinical Vignettes Poster-1.png"  width="800px" height="600px" /> <br>
+<img src="https://raw.githubusercontent.com/yaruup/yaruup.github.io/main/mypaper/poster/Clinical Vignettes Poster-1.png" width="800px" height="600px" /> <br>
 
 <img src="https://raw.githubusercontent.com/yaruup/yaruup.github.io/main/mypaper/poster/inter-orgnismal bodylength increase-1.png" width="800px" height="600px" /> <br>
 
