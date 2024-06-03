@@ -16,8 +16,6 @@ title: Publications
 
 - <br>
 
-  <br>
-
 ---
 
 ## Undergraduate Thesis
