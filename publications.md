@@ -12,7 +12,7 @@ title: Publications
 
 ## Posters
 
-- <embed src="mypaper/poster/Clinical_Vignettes_Poster.pdf" width="800px" height="600px" /> <br>
+- <embed src="mypaper/poster/Clinical_Vignettes_Poster.pdf" width="800px" height="600px" type="application/pdf"  /> <br>
 
 - <br>
 
