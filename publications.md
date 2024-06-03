@@ -12,7 +12,7 @@ title: Publications
 
 ## Posters
 
-- <embed src="www.github.com/yaruup/yaruup.github.io/blob/main/mypaper/poster/unt_poster.png" width="800px" height="600px"  /> <br>
+- <embed src="www.github.com/yaruup/yaruup.github.io/blob/main/mypaper/poster/Clinical_Vignettes_Poster.pdf" width="800px" height="600px" type="application/pdf" /> <br>
 
 - <br>
 
