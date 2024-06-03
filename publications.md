@@ -12,7 +12,7 @@ title: Publications
 
 ## Posters
 
-- <embed src="mypaper/poster/unt_poster.png" width="800px" height="600px"  /> <br>
+- <embed src="mypaper/poster/unt_poster.png" width="5400px" height="3600px"  /> <br>
 
 - <br>
 
