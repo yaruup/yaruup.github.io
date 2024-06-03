@@ -12,7 +12,7 @@ title: Publications
 
 ## Posters
 
-- <embed src="yaruup/yaruup.github.io/mypaper/poster/unt_poster.png" width="800px" height="600px"  /> <br>
+- <embed src="www.github.com/yaruup/yaruup.github.io/blob/main/mypaper/poster/unt_poster.png" width="800px" height="600px"  /> <br>
 
 - <br>
 
