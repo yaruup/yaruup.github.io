@@ -12,11 +12,11 @@ title: Publications
 
 ## Posters
 
-<img src="https://raw.githubusercontent.com/yaruup/yaruup.github.io/main/mypaper/poster/Clinical Vignettes Poster-1.png" width="800px" height="600px" /> <br>
+<img src="https://raw.githubusercontent.com/yaruup/yaruup.github.io/main/mypaper/poster/Clinical Vignettes Poster-1.png" width="1500px" height="1200px" /> <br>
 
-<img src="https://raw.githubusercontent.com/yaruup/yaruup.github.io/main/mypaper/poster/inter-orgnismal bodylength increase-1.png" width="800px" height="600px" /> <br>
+<img src="https://raw.githubusercontent.com/yaruup/yaruup.github.io/main/mypaper/poster/inter-orgnismal bodylength increase-1.png" width="1500px" height="1125px" /> <br>
 
-<img src="https://raw.githubusercontent.com/yaruup/yaruup.github.io/main/mypaper/poster/unt_poster.png" width="1200px" height="800px" /> <br>
+<img src="https://raw.githubusercontent.com/yaruup/yaruup.github.io/main/mypaper/poster/unt_poster.png" width="1500px" height="1000px" /> <br>
 
 
 ---
