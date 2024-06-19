@@ -6,7 +6,7 @@ title: Publications
 
 ## Publications
 
-- Surya, A., Blythe Marie Bolton, Rothe, R., Mejia-Trujillo, R., Zhao, Q., Leonita, A., Liu, Y., Rangan, R., **Gorusu, Y.**, Nguyen, P., Cenik, C., & Sarinay-Cenik, E. (2024). Cytosolic Ribosomal Protein Haploinsufficiency affects Mitochondrial Morphology and Respiration. BioRxiv (Cold Spring Harbor Laboratory). https://doi.org/10.1101/2024.04.16.589775 <br> Currently being peer-reveiwed in multiple journals
+- Surya, A., Blythe Marie Bolton, Rothe, R., Mejia-Trujillo, R., Zhao, Q., Leonita, A., Liu, Y., Rangan, R., **Gorusu, Y.**, Nguyen, P., Cenik, C., & Sarinay-Cenik, E. (2024). Cytosolic Ribosomal Protein Haploinsufficiency affects Mitochondrial Morphology and Respiration. BioRxiv (Cold Spring Harbor Laboratory). [https://doi.org/10.1101/2024.04.16.589775](https://doi.org/10.1101/2024.04.16.589775) <br> Currently being peer-reveiwed in multiple journals
 
   <br>
 
