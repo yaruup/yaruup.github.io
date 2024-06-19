@@ -2,8 +2,6 @@
 layout: page
 ---
 
-# About Me
-
 
 
 ## Academic Background
@@ -23,7 +21,6 @@ layout: page
 - **Jun 2021 - Aug 2021:** Emergency Medical Technician - American Medical Response, Dallas, TX 
 - **May 2021 - Aug 2021** Restaurant Host - BJ’s Restaurant & Brewhouse, Allen, TX 
 
-## Volunteering 
 
 
 ## Languages
