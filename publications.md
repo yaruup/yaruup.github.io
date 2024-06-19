@@ -31,7 +31,6 @@ title: Publications
 
 ## Undergraduate Thesis
 
-  <br>
   
 - **Gorusu Y** (2024). “RPOA-2 Degron Induced Growth Arrest leads to Nutrient-Independent, Inter-Organismal, Body Length Increase in C. Elegans.” [*PDF Link](https://drive.google.com/file/d/10OxR7iSR3V7JWNWc_eRvAoCwjSnTlWqp/view?usp=sharing)
   
