@@ -11,6 +11,9 @@ layout: page
 - **Aug 2021 - May 2024:** The University of Texas at Austin - Program, Social Inequality, Health and Policy
 - **June 2019 - May 2021** The Texas Academy of Mathematics and Science - High School Diploma
 
+  <br>
+
+---
 
 ## Work Experience 
 
@@ -21,7 +24,9 @@ layout: page
 - **Jun 2021 - Aug 2021:** Emergency Medical Technician - American Medical Response, Dallas, TX 
 - **May 2021 - Aug 2021** Restaurant Host - BJ’s Restaurant & Brewhouse, Allen, TX 
 
+  <br>
 
+---
 
 ## Languages
 
