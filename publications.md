@@ -10,6 +10,8 @@ title: Publications
 
   <br>
 
+---
+
 ## Posters
 - **Gorusu Y**, Phan V, Messer A. (2024). “Clinical Vignettes: An Active Learning Resource for Kenyan Schools.” <br> Presented at Bridging Disciplines Program Poster Session 2024 and Science and Technology Undergraduate Research Forum. [*PDF Link*](https://drive.google.com/file/d/1rzrZRlwTMlIV1LPNDPgYMEh2LJodYJer/view?usp=drive_link)
 <img src="https://raw.githubusercontent.com/yaruup/yaruup.github.io/main/mypaper/poster/Clinical Vignettes Poster-1.png" width="1500px" height="1200px" />
@@ -25,7 +27,6 @@ title: Publications
 <img src="https://raw.githubusercontent.com/yaruup/yaruup.github.io/main/mypaper/poster/unt_poster.png" width="1500px" height="1000px" />
 
   <br>
-
 
 ---
 
